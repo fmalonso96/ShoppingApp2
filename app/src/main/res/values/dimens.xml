@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="padding">15dp</dimen>
+    <dimen name="custom_height">200dp</dimen>
+    <dimen name="margin_top">16dp</dimen>
+    <dimen name="text_size">16sp</dimen>
+    <dimen name="cardCornerRadius">2dp</dimen>
+    <dimen name="cardElevation">8dp</dimen>
+    <dimen name="layout_margin">10dp</dimen>
+    <dimen name="custom_height_exp">450dp</dimen>
+    <dimen name="title">20sp</dimen>
+    <dimen name="description">15sp</dimen>
+    <dimen name="zero_dp">0dp</dimen>
+</resources>

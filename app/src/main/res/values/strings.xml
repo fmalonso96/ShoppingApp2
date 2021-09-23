@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ShoppingAppMvvm</string>
+    <string name="title_test">Title Test</string>
+    <string name="search">Search</string>
+    <string name="search_your_products">Search your products</string>
+    <string name="alert_title">Alert</string>
+    <string name="alert_message">Error</string>
+</resources>
